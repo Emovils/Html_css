@@ -1,0 +1,61 @@
+body{
+    background: whitesmoke;
+    font-family: sans-serif;
+    line-height: 1.5;
+    padding: 20px;
+}
+h1{
+   color: plum; 
+   text-align: center;
+   font-style: oblique;
+   text-decoration: underline;
+   margin: 25px;
+}
+#container {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+}
+#intro {
+    background-color: palevioletred;
+    font-size:18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: radius 12px;
+    font-style: oblique;
+}
+#reflection {
+    background-color: mediumslateblue;
+    font: size 18px; 
+    margin-top: 15px ;
+    margin-bottom: 15px;
+    border-radius:12px;
+    font-style: oblique;
+}
+#insight {
+    background-color: violet;
+    font-size: 18px;
+    margin-top:15px ;
+    margin-bottom: 15px;
+    border-start-end-radius: 12px;
+    font-style: oblique;
+}
+#values {
+    background-color: mediumvioletred;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-style: oblique;
+    border-radius: 12px;
+    font-style: oblique;
+}
+#selfimprovement {
+    background-color: rebeccapurple;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    font-style: oblique;
+}
+
+
