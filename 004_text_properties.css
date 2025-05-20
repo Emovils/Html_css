@@ -1,0 +1,76 @@
+body {
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-weight: 300;
+    text-align: justify;
+}
+h1{
+    color: navy;
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: fixed;
+    background-color:beige;
+    height: 100%;
+    padding: 20px;
+    text-decoration: solid;
+}
+.bio{
+    text-align: justify;
+    letter-spacing: 1.4px;
+}
+label{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    border-bottom: 15px;
+    text-decoration: solid;
+}
+h4{
+    font-size: 1.4rem;
+    text-transform: uppercase;
+
+}
+.hobbies{
+    letter-spacing: 1.4px;
+
+}
+.quote{
+    font-style: italic;
+    font-size: 1.1rem;
+    margin: 20px 0;
+    padding: 15px;
+    border-left: 4px solid #b2b2b9;
+    border-left: #b2b2b9;
+    border-style: groove;
+    color:beige;
+    text-align: right;
+    background-color: navy;
+    width: fit-content;
+    
+
+
+    
+}
+a {
+    font-weight: bold;
+    margin: 0 5px;
+    
+    
+}
+a:hover {
+    text-decoration: underline;
+    
+}
+footer{
+    text-align: center;
+    margin: 30px;
+    color: #777;
+    font-size: 0.9rem;
+    height: 80%;
+    padding: 15px;
+    background-color: beige;
+}
+
+
